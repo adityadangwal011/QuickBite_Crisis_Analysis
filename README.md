@@ -27,16 +27,9 @@ QuickBite_data_analysis/
 │   ├── raw/                        # Original datasets (orders, customers, reviews)
 │   └── processed/                  # Cleaned and transformed CSV files
 │
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb      # Phase 3 — Process
-│   ├── 02_primary_analysis.ipynb   # Phase 4 — Primary Analysis (Q1–Q10)
-│   └── 03_secondary_analysis.ipynb # Phase 4 — Secondary Analysis
-│
-├── dashboard/
-│   └── QuickBite_Dashboard.pbix    # Power BI dashboard file
-│
-├── visuals/
-│   └── word_cloud/                 # Sentiment word cloud exports
+├── Analysis/
+│   ├── 01_QuickBite_data_analysis.ipynb     # Phase 3 — Process and Phase 4 — Primary Analysis (Q1–Q10)
+│   └── 02_QuickBite_Dashboard.pbix    # Power BI dashboard file  Phase 4 — Secondary Analysis
 │
 ├── docs/
 │   └── Primary_and_Secondary_Analysis.pdf  # Analysis brief (Codebasics)
