@@ -23,9 +23,15 @@ This project follows the **6-phase Google Data Analytics process** as a guiding 
 ```
 QuickBite_data_analysis/
 │
-├── data/
-│   ├── raw/                        # Original datasets (orders, customers, reviews)
-│   └── processed/                  # Cleaned and transformed CSV files
+├── dataset/
+│   ├── dim_customer.csv
+│   ├── dim_delivery_partner.csv
+│   ├── dim_menu_item.csv
+│   ├── dim_restaurant.csv
+│   ├── fact_delivery_performance.csv
+│   ├── fact_order_items.csv
+│   ├── fact_orders.csv
+│   └── fact_ratings.csv
 │
 ├── Analysis/
 │   ├── 01_QuickBite_data_analysis.ipynb     # Phase 3 — Process and Phase 4 — Primary Analysis (Q1–Q10)
