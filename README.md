@@ -2,6 +2,8 @@
 
 > **A data analytics case study** investigating QuickBite's business crisis (Jun–Sep 2025) using the **Google Data Analytics framework** — Ask, Prepare, Process, Analyze, Share, Act.
 
+## 🌐 Live Dashboard
+[📊 View Interactive Power BI Dashboard](https://app.powerbi.com/links/5DRncCm1-4?ctid=d9a9308d-26d9-43d6-9800-dd669921a312&pbi_source=linkShare)
 ---
 
 ## 📌 Project Overview
